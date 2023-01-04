@@ -1,8 +1,8 @@
 ---
-title: "NLP Project Lead @ Shallow.ai"
-excerpt: "Powerful and efficient NLP"
+title: "Junior Data Scientist @ Virologic (Now CareX.ai)"
+excerpt: "Vital sign monitoring through your phone"
 collection: experience
-date: 2020-09-23
+date: 2020-05-23
 permalink: "/experience/virologic"
 ---
 
@@ -18,6 +18,8 @@ May 2020 - August 2020
 
 
 ViroLogic is a digital COVID-19 screening app that offers daily screenings for COVID-19 symptoms. It is also a personalized passive montoring tool. By keeping track of symptoms and monitoring vital signs on a daily basis, patients can receive an early warning as well as guidance as to how to act in case if their indicators point to a high probability of being infected. 
+
+The company has now rebranded and is called [CareX](https://www.carex.ai/).
 
 
 ## My Role
