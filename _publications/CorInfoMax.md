@@ -1,12 +1,12 @@
 ---
-title: "A containerized proof-of-concept implementation of LightChain system"
+title: "Self-Supervised Learning with an Information Maximization Criterion"
 collection: publications
 permalink: /publications/corinfomax
 excerpt: #''
 date: 2022-11-28
-venue: '2022 Conference on Neural Information Processing Systems'
-paperurl: #'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9169463'
-citation: #'Ozsoy, S., Hamdan, S.S., Arik, S.Ö., Yuret, D., & Erdogan, A.T. (2022). Self-Supervised Learning with an Information Maximization Criterion. ArXiv, abs/2209.07999.'
+venue: 'NeurIPS'
+paperurl: 'https://arxiv.org/abs/2209.07999'
+citation: 'Ozsoy, S., Hamdan, S.S., Arik, S.Ö., Yuret, D., & Erdogan, A.T. (2022). Self-Supervised Learning with an Information Maximization Criterion. ArXiv, abs/2209.07999.'
 ---
 
 This article proposes a self-supervised learning method that uses a second-order statistics-based mutual information measure that reﬂects the level of correlation among its arguments and prevents dimensional collapse by encouraging the spread of information across the whole feature space.

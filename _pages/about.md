@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the Autonomous Vision Group, advised by [Asst. Prof. Fatma Guney](https://mysite.ku.edu.tr/fguney/), where I 
-
-
-I am also a member of the Distributed Systems and Reliable Networks Laboratory (DISNET) at Koç University, where I am working on several
-cool research projects.
+I am a first year PhD student at the Autonomous Vision Group, advised by [Asst. Prof. Fatma Guney](https://mysite.ku.edu.tr/fguney/), where I work on sequence modeling for decision making. I am also an AI Fellow at the [KUIS AI Lab](https://ai.ku.edu.tr/).
 
 My research interests include, but are not limited to:
-* Sequence Modeling with Transformers for Sequental Decision Making
-* Self-Supervised Representation Learning [Paper]
-* Natural Language Understanding []
+* Sequence Modeling with Transformers for Decision Making
+* Self-Supervised Representation Learning [Paper (NeurIPS 2022)](https://arxiv.org/abs/2209.07999)
+* Natural Language Understanding [Dataset]((https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/minute_mysteries_qa))[Paper](https://arxiv.org/abs/2209.07999)
 
 # News
 * `25/09/2022` Joined KUIS AI Center as a PhD Student working with [Fatma Güney](https://mysite.ku.edu.tr/fguney/).

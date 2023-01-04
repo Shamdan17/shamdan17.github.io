@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/bigbench
 excerpt: #''
 date: 2022-06-09
-venue: 'arXiv (Submitted to TMLR)'
+venue: 'arXiv (Submitted to TMLR),'
 paperurl: #'https://arxiv.org/abs/2206.04615'
 citation: #'Srivastava, A. et al (2022). Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. ArXiv, abs/2206.04615.'
 ---

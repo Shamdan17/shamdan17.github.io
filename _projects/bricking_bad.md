@@ -15,7 +15,7 @@ tags:
 
 ## Code
 
-The code is available on github [here](https://github.com/NazirNayal8/BrickingBad).
+The code is available on github [here](https://github.com/Shamdan17/Bricking_Bad).
 
 ## Skills
 

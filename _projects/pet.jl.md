@@ -3,7 +3,7 @@ title: "It's Not Just Size That Matters: Small Language Models Are Also Few-Shot
 excerpt: "A replication of PET, achieving better performance than GPT-3 with 1% of the parameters and only 32 training samples."
 collection: projects
 permalink: /projects/petjl
-date: 2022-09-15
+date: 2020-09-15
 categories:
   - University Project
 tags:

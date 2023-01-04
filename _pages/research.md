@@ -5,36 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-My current research interests can be summarized as follows:
-
-* Developing interdisciplinary machine learning models to solve real-life problems.
-* Applications Deep Learning in Natural Language Processing and Computer Vision.
-* Developing Algorithms and Data Structures to solve real-life problems.
+My research interests include, but are not limited to:
+* Sequence Modeling with Transformers for Decision Making
+* Self-Supervised Representation Learning [Paper (NeurIPS 2022)](https://arxiv.org/abs/2209.07999)
+* Natural Language Understanding [Dataset]((https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/minute_mysteries_qa))[Paper](https://arxiv.org/abs/2209.07999)
 
 ## Current Affiliations
 
-I am a member in the Distributed Systems and Reliable Networks Laboratory at Koç University (DISNET).
+I am a PhD student at the [Autonomous Vision Group](https://mysite.ku.edu.tr/fguney/) at Koc University. I am also an AI fellow at the [KUIS AI Lab](https://ai.ku.edu.tr/).
 
-## Active Projects
-
-### Skip Graph Middleware (DISNET Lab)
-
-Developing and implementing an enhanced version of Skip Graph data structure.
-
-### Distributed Simulator (DISNET Lab)
-
-Developing and implementing a simulator that can be used to deploy Distributed
-Systems applications with metrics monitoring and protocol agnostic underlay.
-
-
-### LightChain Proof of Validation (DISNET Lab)
-
-A continuation to a previous project where we are adding extra features and
-validing performance of LightChain.
-
-## Previous Projects
-
-### LightChain Proof of Concept Implementation (DISNET Lab)
-
-We implemented a proof of concept of LightChain System. LightChain is a DHT based
-blockchain with Proof of Validation as a consensus algorithm.
+I have more details about my research [here](shadihamdan.com/publications).
