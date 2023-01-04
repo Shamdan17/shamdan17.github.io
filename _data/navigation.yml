@@ -1,0 +1,23 @@
+# main links links
+main:
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Interests"
+    url: /interests/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Blogs"
+    url: /blogs/
+
+  - title: "CV"
+    url: /cv/
