@@ -10,14 +10,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Interests"
-    url: /interests/
+  # - title: "Interests"
+  #   url: /interests/
 
   - title: "Projects"
     url: /projects/
 
-  - title: "Blogs"
-    url: /blogs/
+  # - title: "Blogs"
+  #   url: /blogs/
 
   - title: "CV"
     url: /cv/

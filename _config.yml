@@ -184,12 +184,12 @@ collections:
   experience:
     output: true
     permalink: /:collection/:path/
-  interests:
-    output: false
-    permalink: /:collection/:path/
-  blogs:
-    output: false
-    permalink: /:collection/:path/
+  # interests:
+  #   output: false
+  #   permalink: /:collection/:path/
+  # blogs:
+  #   output: false
+  #   permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
