@@ -91,9 +91,6 @@
 <loc>https://shadihamdan.com/research/</loc>
 </url>
 <url>
-<loc>https://shadihamdan.com/sitemap/</loc>
-</url>
-<url>
 <loc>https://shadihamdan.com/tags/</loc>
 </url>
 <url>
@@ -107,6 +104,9 @@
 </url>
 <url>
 <loc>https://shadihamdan.com/year-archive/</loc>
+</url>
+<url>
+<loc>https://shadihamdan.com/_pages/sitemap/</loc>
 </url>
 <url>
 <loc>https://shadihamdan.com/markdown_generator/</loc>
