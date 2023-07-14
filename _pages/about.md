@@ -16,6 +16,7 @@ My research interests include, but are not limited to:
 * Natural Language Understanding [(Dataset)](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/minute_mysteries_qa)[(Paper)](https://arxiv.org/abs/2209.07999)
 
 # News
+* `09/07/2023` I have attended [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/Home), which took place in Sicily, Italy!
 * `25/09/2022` Joined KUIS AI Center as a PhD Student working with [Fatma Güney](https://mysite.ku.edu.tr/fguney/).
 * `15/09/2022` Our [paper](https://arxiv.org/abs/2209.07999) proposing CorInfoMax for self-supervised learning has been accepted to NeurIPS 2022! More details [here](https://shadihamdan.com/publications/corinfomax). 
 * `22/06/2022` Ranked 1st among all Koc Undergraduate Students of the Class of 2022.
