@@ -87,8 +87,9 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=I6bAD78AAAAJ&hl=en"
+  semanticscholar  : "https://www.semanticscholar.org/author/S.-Hamdan/1832987156"
   email            : "shamdan17@ku.edu.tr"
-  researchgate     : "https://www.researchgate.net/profile/Shadi_Hamdan2"
+  researchgate     : #"https://www.researchgate.net/profile/Shadi_Hamdan2"
   uri              :
   bitbucket        :
   codepen          :
