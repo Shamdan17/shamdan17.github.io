@@ -10,7 +10,7 @@
     {% if author.avatar contains "://" %}
     <img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    <img src="{{ author.avatar | prepend: " /images/" | prepend: base_path }}" class="author__avatar"
+    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar"
       alt="{{ author.name }}">
     {% endif %}
   </div>
@@ -42,7 +42,8 @@
           Keybase</a></li>
       {% endif %}
       {% if author.semanticscholar %}
-      <li><a href="{{ author.semanticscholar }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> Semantic
+      <li><a href="{{ author.semanticscholar }}"><i class="fab fa-fw ai-semantic-scholar-square" aria-hidden="true"></i>
+          Semantic
           Scholar</a></li>
       {% endif %}
       {% if author.researchgate %}
