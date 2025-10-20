@@ -3,7 +3,7 @@ title: "How much do LLMs learn from negative examples?"
 collection: publications
 permalink: /publications/near-miss-negatives
 excerpt: #''
-date: 2024-03-18
+date: 2025-03-18
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2503.14391'
 citation: 'D. Yuret, S. Hamdan, "How much do LLMs learn from negative examples?," on arXiv'
