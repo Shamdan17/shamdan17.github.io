@@ -1,9 +1,9 @@
 ---
-title: "NLP Project Lead @ Shallow.ai"
-excerpt: "State of the Art AI applications for edge devices"
+title: "NLP Project Lead @ Hyperbee.ai"
+excerpt: "Efficient NLP models optimized for edge devices"
 collection: experience
-date: 2020-08-23
-permalink: "/experience/shallowai"
+date: 2020-07-01
+permalink: "/experience/hyperbeeai"
 ---
 
 ## Location
@@ -12,11 +12,11 @@ Palo Alto, California, USA (Remote)
 
 ## Duration
 
-Since June 2020
+July 2020 - October 2025
 
 ## About the Company
 
-ShallowAI is a startup focused on enabling small-footprint AI deployment, both in terms of memory and computation, without compromising accuracy for cloud, edge and mobile applications. Target devices range from modern mobile devices to heavily specialized and inexpensive chips with limited capabilities.
+Hyperbee.ai (formerly Shallow.ai) is a startup focused on enabling small-footprint AI deployment, both in terms of memory and computation, without compromising accuracy for cloud, edge and mobile applications. Target devices range from modern mobile devices to heavily specialized and inexpensive chips with limited capabilities.
 
 ## My Role
 

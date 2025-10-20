@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/bigbench
 excerpt: #''
 date: 2022-06-09
-venue: 'arXiv (Submitted to TMLR)'
-paperurl: #'https://arxiv.org/abs/2206.04615'
-citation: #'Srivastava, A. et al (2022). Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. ArXiv, abs/2206.04615.'
+venue: 'TMLR'
+paperurl: 'https://arxiv.org/abs/2206.04615'
+citation: 'Srivastava, A. et al (2022). Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. ArXiv, abs/2206.04615.'
 ---
 
 The Beyond the Imitation Game Benchmark (BIG-bench) is a collaborative benchmark intended to probe large language models and extrapolate their future capabilities.

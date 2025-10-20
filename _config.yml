@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shadi Hamdan"
 title_separator          : "-"
 name                     : &name "Shamdan17"
-description              : &description "Computer Engineering PhD Student"
+description              : &description "MSc in Computer Engineering, Autonomous Vision Group @ Koc University"
 url                      : https://shadihamdan.com #https://nazirnayal.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shamdan17/shamdan17.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shadi Hamdan"
   avatar           : "profile.jpg"
-  bio              : "Computer Engineering PhD student @ Koç University"
+  bio              : "MSc in Computer Engineering @ Koç University"
   location         : "Istanbul, Turkey"
   employer         :
   pubmed           :
